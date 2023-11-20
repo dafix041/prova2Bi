@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tq31MlP0/GgUbCINbtJmBm1mvqDhKWBtTn6gtxz4/7DO8Ek2uDpEUUFCOZUk3StV8pFCBAUREuwn7Aat0P18rw==",
+  "dgSpecHash": "HS5MEpysy5M0Rv7J0gF4MX/BmbNs1Q8imIXm6Z2sEb5BKPDta2XIMaYx5t/VbtVc7UT0Sj/PErL2tw6K8nyx2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\prova2BI\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TioDo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TioDo\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.25\\microsoft.data.sqlite.core.6.0.25.nupkg.sha512",
