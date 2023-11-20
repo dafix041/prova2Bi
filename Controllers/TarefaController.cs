@@ -10,7 +10,7 @@ namespace API.Controllers;
 public class TarefaController : ControllerBase
 {
 
-    
+
     private readonly AppDataContext _context;
 
     public TarefaController(AppDataContext context) =>
@@ -31,6 +31,9 @@ public class TarefaController : ControllerBase
             return BadRequest(e.Message);
         }
     }
+
+
+
 
     // POST: api/tarefa/cadastrar
     [HttpPost]
